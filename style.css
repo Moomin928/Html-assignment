@@ -1,0 +1,70 @@
+.header {
+    width: 1500px;
+    margin-top: 0px;
+    margin-right: 0px;
+
+}
+
+
+
+
+.footer2 {
+    text-align: center;
+    background-color: lightblue;
+}
+
+.footer {
+    background-color: lightblue;
+    background-size: 100%;
+    width: 3000px;
+}
+
+
+.nav {
+    margin-left: 0px;
+
+}
+
+.nav ul {
+    display: flex;
+    background-color: lightgreen;
+
+}
+
+.nav li {
+    margin-left: 24px;
+    display: flex;
+}
+
+.nav li a {
+    padding: 6px 8px;
+    display: block;
+    line-height: 27px;
+    font-size: 19px;
+    text-decoration: none;
+}
+
+.nav li active,
+.nav li a:hover {
+    border-bottom: 2px solid #00a4ff;
+}
+
+.information figure img {
+    vertical-align: middle;
+}
+
+.Hobby p {
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 30px;
+    margin-left: 700px;
+
+}
+
+.More p {
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Playpen Sans', cursive;
+
+}
